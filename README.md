@@ -226,12 +226,8 @@ This website enables:
 
 ## 📸 Screenshots
 
-(Add here in your repo)
-
-```
-/screenshots/homepage.png
-wp-content/images/rfid-product.png
-wp-content/images/rfid-solution.png
-wp-content/images/rfid-case-study.png
-wp-content/images/rfid-support.png
-```
+![Homepage Screenshot](screenshots/homepage.png)
+![RFID Product](images/rfid-product.png)
+![RFID Solution](images/rfid-solution.png)
+![RFID Case Study](images/rfid-case-study.png)
+![RFID Support](images/rfid-support.png)
