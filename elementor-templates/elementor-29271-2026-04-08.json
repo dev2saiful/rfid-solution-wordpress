@@ -1,0 +1,2914 @@
+{
+  "content": [
+    {
+      "id": "22d04701",
+      "settings": {
+        "flex_direction": "column",
+        "scroll_y": -80,
+        "padding": {
+          "unit": "px",
+          "top": "50",
+          "right": "010",
+          "bottom": "30",
+          "left": "010",
+          "isLinked": false
+        },
+        "wd_section_stretch": "stretch",
+        "background_background": "classic",
+        "background_color": "#222222",
+        "padding_tablet": {
+          "unit": "px",
+          "top": "050",
+          "right": "010",
+          "bottom": "030",
+          "left": "010",
+          "isLinked": false
+        },
+        "boxed_width": { "unit": "%", "size": "", "sizes": [] },
+        "boxed_width_widescreen": { "unit": "%", "size": "", "sizes": [] },
+        "boxed_width_tablet": { "unit": "%", "size": "", "sizes": [] },
+        "boxed_width_mobile_extra": { "unit": "%", "size": "", "sizes": [] },
+        "boxed_width_mobile": { "unit": "%", "size": "", "sizes": [] },
+        "background_image": { "url": "", "id": "", "size": "" },
+        "background_video_fallback": { "url": "", "id": "", "size": "" },
+        "background_slideshow_gallery": [],
+        "background_hover_image": { "url": "", "id": "", "size": "" },
+        "background_hover_video_fallback": { "url": "", "id": "", "size": "" },
+        "background_hover_slideshow_gallery": [],
+        "background_overlay_image": { "url": "", "id": "", "size": "" },
+        "background_overlay_video_fallback": {
+          "url": "",
+          "id": "",
+          "size": ""
+        },
+        "background_overlay_slideshow_gallery": [],
+        "background_overlay_hover_image": { "url": "", "id": "", "size": "" },
+        "background_overlay_hover_video_fallback": {
+          "url": "",
+          "id": "",
+          "size": ""
+        },
+        "background_overlay_hover_slideshow_gallery": []
+      },
+      "elements": [
+        {
+          "id": "4325f89b",
+          "settings": {
+            "content_width": "full",
+            "border_border": "solid",
+            "border_width": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "1",
+              "left": "0",
+              "isLinked": false
+            },
+            "border_color": "#F0830082",
+            "margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "20",
+              "left": "0",
+              "isLinked": false
+            },
+            "scroll_y": -80,
+            "__globals__": { "border_color": "" },
+            "width": { "unit": "%", "size": 100, "sizes": [] },
+            "width_widescreen": { "unit": "%", "size": "", "sizes": [] },
+            "width_tablet": { "unit": "%", "size": "", "sizes": [] },
+            "width_mobile_extra": { "unit": "%", "size": "", "sizes": [] },
+            "width_mobile": { "unit": "%", "size": "", "sizes": [] },
+            "flex_gap": {
+              "column": "10",
+              "row": "10",
+              "isLinked": true,
+              "unit": "px",
+              "size": 10
+            },
+            "background_image": { "url": "", "id": "", "size": "" },
+            "background_video_fallback": { "url": "", "id": "", "size": "" },
+            "background_slideshow_gallery": [],
+            "background_hover_image": { "url": "", "id": "", "size": "" },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "background_hover_slideshow_gallery": [],
+            "background_overlay_image": { "url": "", "id": "", "size": "" },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "background_overlay_slideshow_gallery": [],
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "background_overlay_hover_slideshow_gallery": []
+          },
+          "elements": [
+            {
+              "id": "4b022267",
+              "settings": {
+                "container_type": "grid",
+                "presetTitle": "Grid",
+                "presetIcon": "eicon-container-grid",
+                "content_width": "full",
+                "grid_columns_grid": { "unit": "fr", "size": 4, "sizes": [] },
+                "grid_rows_grid": { "unit": "fr", "size": 1, "sizes": [] },
+                "scroll_y": -80,
+                "grid_columns_grid_tablet": {
+                  "unit": "fr",
+                  "size": 2,
+                  "sizes": []
+                },
+                "grid_rows_grid_tablet": {
+                  "unit": "fr",
+                  "size": 2,
+                  "sizes": []
+                },
+                "grid_gaps": {
+                  "column": "2",
+                  "row": "2",
+                  "isLinked": true,
+                  "unit": "px"
+                },
+                "background_image": { "url": "", "id": "", "size": "" },
+                "background_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_slideshow_gallery": [],
+                "background_hover_image": { "url": "", "id": "", "size": "" },
+                "background_hover_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_hover_slideshow_gallery": [],
+                "background_overlay_image": { "url": "", "id": "", "size": "" },
+                "background_overlay_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_overlay_slideshow_gallery": [],
+                "background_overlay_hover_image": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_overlay_hover_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_overlay_hover_slideshow_gallery": []
+              },
+              "elements": [
+                {
+                  "id": "73f0b09d",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "flex_align_items": "flex-start",
+                    "scroll_y": -80,
+                    "flex_justify_content_mobile": "center",
+                    "flex_align_items_mobile": "center",
+                    "background_image": { "url": "", "id": "", "size": "" },
+                    "background_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_slideshow_gallery": [],
+                    "background_hover_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_hover_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_hover_slideshow_gallery": [],
+                    "background_overlay_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_overlay_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_overlay_slideshow_gallery": [],
+                    "background_overlay_hover_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_overlay_hover_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_overlay_hover_slideshow_gallery": []
+                  },
+                  "elements": [
+                    {
+                      "id": "44f03cea",
+                      "settings": {
+                        "image": {
+                          "id": "29261",
+                          "url": "https:\/\/rfidsolution.com.bd\/wp-content\/uploads\/2026\/01\/white-logo.webp"
+                        },
+                        "image_size": "custom",
+                        "image_custom_dimension": {
+                          "width": "250",
+                          "height": "90"
+                        },
+                        "link_to": "custom",
+                        "scroll_y": -80,
+                        "align": "left",
+                        "align_mobile": "center",
+                        "width": { "unit": "%", "size": 70, "sizes": [] },
+                        "width_mobile": {
+                          "unit": "%",
+                          "size": 60,
+                          "sizes": []
+                        },
+                        "width_tablet": {
+                          "unit": "%",
+                          "size": 60,
+                          "sizes": []
+                        },
+                        "space_mobile": {
+                          "unit": "%",
+                          "size": 60,
+                          "sizes": []
+                        },
+                        "_flex_align_self_mobile": "center",
+                        "_background_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_slideshow_gallery": [],
+                        "_background_hover_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_slideshow_gallery": [],
+                        "_mask_image": { "url": "", "id": "", "size": "" }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "image",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "78d5e340",
+                      "settings": {
+                        "social_icon_list": [
+                          {
+                            "social_icon": {
+                              "value": "fab fa-facebook",
+                              "library": "fa-brands"
+                            },
+                            "_id": "24bc561",
+                            "link": {
+                              "url": "https:\/\/www.facebook.com\/retailsolution.com.bd",
+                              "is_external": "true",
+                              "nofollow": "",
+                              "custom_attributes": ""
+                            },
+                            "item_icon_color": "default",
+                            "item_icon_primary_color": "",
+                            "item_icon_secondary_color": ""
+                          },
+                          {
+                            "social_icon": {
+                              "value": "fab fa-twitter",
+                              "library": "fa-brands"
+                            },
+                            "_id": "ced8056",
+                            "link": {
+                              "url": "https:\/\/x.com\/retail4solution",
+                              "is_external": "true",
+                              "nofollow": "",
+                              "custom_attributes": ""
+                            },
+                            "item_icon_color": "default",
+                            "item_icon_primary_color": "",
+                            "item_icon_secondary_color": ""
+                          },
+                          {
+                            "_id": "200f594",
+                            "social_icon": {
+                              "value": "fab fa-linkedin",
+                              "library": "fa-brands"
+                            },
+                            "link": {
+                              "url": "https:\/\/www.linkedin.com\/company\/retail-solution-bd",
+                              "is_external": "true",
+                              "nofollow": "",
+                              "custom_attributes": ""
+                            },
+                            "item_icon_color": "default",
+                            "item_icon_primary_color": "",
+                            "item_icon_secondary_color": ""
+                          },
+                          {
+                            "social_icon": {
+                              "value": "fab fa-youtube",
+                              "library": "fa-brands"
+                            },
+                            "_id": "a375c30",
+                            "link": {
+                              "url": "https:\/\/www.youtube.com\/@retailsolution2954",
+                              "is_external": "true",
+                              "nofollow": "",
+                              "custom_attributes": ""
+                            },
+                            "item_icon_color": "default",
+                            "item_icon_primary_color": "",
+                            "item_icon_secondary_color": ""
+                          }
+                        ],
+                        "align": "left",
+                        "icon_size": { "unit": "px", "size": 20, "sizes": [] },
+                        "icon_padding": {
+                          "unit": "px",
+                          "size": 10,
+                          "sizes": []
+                        },
+                        "icon_padding_tablet": {
+                          "unit": "px",
+                          "size": "",
+                          "sizes": []
+                        },
+                        "icon_padding_mobile": {
+                          "unit": "px",
+                          "size": "",
+                          "sizes": []
+                        },
+                        "icon_spacing": {
+                          "unit": "px",
+                          "size": 10,
+                          "sizes": []
+                        },
+                        "border_radius": {
+                          "unit": "px",
+                          "top": "5",
+                          "right": "5",
+                          "bottom": "5",
+                          "left": "5",
+                          "isLinked": true
+                        },
+                        "hover_animation": "shrink",
+                        "scroll_y": -80,
+                        "_background_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_slideshow_gallery": [],
+                        "_background_hover_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_slideshow_gallery": [],
+                        "_mask_image": { "url": "", "id": "", "size": "" }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "social-icons",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "5f8dbc57",
+                      "settings": {
+                        "content_width": "full",
+                        "scroll_y": -80,
+                        "background_image": { "url": "", "id": "", "size": "" },
+                        "background_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "background_slideshow_gallery": [],
+                        "background_hover_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "background_hover_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "background_hover_slideshow_gallery": [],
+                        "background_overlay_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "background_overlay_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "background_overlay_slideshow_gallery": [],
+                        "background_overlay_hover_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "background_overlay_hover_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "background_overlay_hover_slideshow_gallery": []
+                      },
+                      "elements": [
+                        {
+                          "id": "22c72524",
+                          "settings": {
+                            "title": "Proud Member Of",
+                            "align": "start",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Helvetica",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 20,
+                              "sizes": []
+                            },
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 20,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "500",
+                            "typography_text_transform": "none",
+                            "typography_font_style": "normal",
+                            "typography_text_decoration": "none",
+                            "typography_line_height": {
+                              "unit": "px",
+                              "size": 25,
+                              "sizes": []
+                            },
+                            "title_color": "#D6D6D6",
+                            "scroll_y": -80,
+                            "__globals__": {
+                              "typography_typography": "globals\/typography?id=accent",
+                              "title_color": ""
+                            },
+                            "_margin": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "-6",
+                              "left": "0",
+                              "isLinked": false
+                            },
+                            "_flex_align_self_mobile": "center",
+                            "_background_image": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "_background_video_fallback": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "_background_slideshow_gallery": [],
+                            "_background_hover_image": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "_background_hover_video_fallback": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "_background_hover_slideshow_gallery": [],
+                            "_mask_image": { "url": "", "id": "", "size": "" }
+                          },
+                          "elements": [],
+                          "isInner": false,
+                          "widgetType": "heading",
+                          "elType": "widget"
+                        },
+                        {
+                          "id": "724c977",
+                          "settings": {
+                            "container_type": "grid",
+                            "presetTitle": "Grid",
+                            "presetIcon": "eicon-container-grid",
+                            "content_width": "full",
+                            "width": { "unit": "%", "size": 70, "sizes": [] },
+                            "grid_columns_grid": {
+                              "unit": "fr",
+                              "size": 1,
+                              "sizes": []
+                            },
+                            "grid_rows_grid": {
+                              "unit": "fr",
+                              "size": 1,
+                              "sizes": []
+                            },
+                            "scroll_y": -80,
+                            "background_image": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "background_video_fallback": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "background_slideshow_gallery": [],
+                            "background_hover_image": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "background_hover_video_fallback": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "background_hover_slideshow_gallery": [],
+                            "background_overlay_image": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "background_overlay_video_fallback": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "background_overlay_slideshow_gallery": [],
+                            "background_overlay_hover_image": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "background_overlay_hover_video_fallback": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "background_overlay_hover_slideshow_gallery": []
+                          },
+                          "elements": [
+                            {
+                              "id": "419df74a",
+                              "settings": {
+                                "image": {
+                                  "id": "29262",
+                                  "url": "https:\/\/rfidsolution.com.bd\/wp-content\/uploads\/2026\/01\/bcs.jpg.webp"
+                                },
+                                "link_to": "custom",
+                                "link": {
+                                  "url": "https:\/\/bcs.org.bd",
+                                  "is_external": "",
+                                  "nofollow": "",
+                                  "custom_attributes": ""
+                                },
+                                "image_border_radius": {
+                                  "unit": "px",
+                                  "top": "10",
+                                  "right": "10",
+                                  "bottom": "10",
+                                  "left": "10",
+                                  "isLinked": true
+                                },
+                                "scroll_y": -80,
+                                "image_size": "full",
+                                "image_custom_dimension": {
+                                  "width": "300",
+                                  "height": "300"
+                                },
+                                "align": "start",
+                                "align_tablet": "start",
+                                "align_mobile": "center",
+                                "width": {
+                                  "unit": "%",
+                                  "size": 40,
+                                  "sizes": []
+                                },
+                                "width_mobile": {
+                                  "unit": "%",
+                                  "size": 35,
+                                  "sizes": []
+                                },
+                                "space": {
+                                  "unit": "%",
+                                  "size": 40,
+                                  "sizes": []
+                                },
+                                "space_mobile": {
+                                  "unit": "%",
+                                  "size": 35,
+                                  "sizes": []
+                                },
+                                "_background_image": {
+                                  "url": "",
+                                  "id": "",
+                                  "size": ""
+                                },
+                                "_background_video_fallback": {
+                                  "url": "",
+                                  "id": "",
+                                  "size": ""
+                                },
+                                "_background_slideshow_gallery": [],
+                                "_background_hover_image": {
+                                  "url": "",
+                                  "id": "",
+                                  "size": ""
+                                },
+                                "_background_hover_video_fallback": {
+                                  "url": "",
+                                  "id": "",
+                                  "size": ""
+                                },
+                                "_background_hover_slideshow_gallery": [],
+                                "_mask_image": {
+                                  "url": "",
+                                  "id": "",
+                                  "size": ""
+                                }
+                              },
+                              "elements": [],
+                              "isInner": false,
+                              "widgetType": "image",
+                              "elType": "widget"
+                            }
+                          ],
+                          "isInner": true,
+                          "elType": "container"
+                        }
+                      ],
+                      "isInner": true,
+                      "elType": "container"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "container"
+                },
+                {
+                  "id": "63189952",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction_mobile": "row",
+                    "flex_justify_content_mobile": "flex-start",
+                    "flex_align_items_mobile": "flex-start",
+                    "flex_gap": {
+                      "column": "15",
+                      "row": "15",
+                      "isLinked": true,
+                      "unit": "px",
+                      "size": 15
+                    },
+                    "flex_gap_mobile": {
+                      "column": "11",
+                      "row": "11",
+                      "isLinked": true,
+                      "unit": "px",
+                      "size": 11
+                    },
+                    "scroll_y": -80,
+                    "width": { "unit": "%", "size": 100, "sizes": [] },
+                    "width_widescreen": {
+                      "unit": "%",
+                      "size": "",
+                      "sizes": []
+                    },
+                    "width_tablet": { "unit": "%", "size": "", "sizes": [] },
+                    "width_mobile_extra": {
+                      "unit": "%",
+                      "size": "",
+                      "sizes": []
+                    },
+                    "width_mobile": { "unit": "%", "size": "", "sizes": [] },
+                    "min_height": { "unit": "px", "size": 0, "sizes": [] },
+                    "background_image": { "url": "", "id": "", "size": "" },
+                    "background_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_slideshow_gallery": [],
+                    "background_hover_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_hover_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_hover_slideshow_gallery": [],
+                    "background_overlay_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_overlay_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_overlay_slideshow_gallery": [],
+                    "background_overlay_hover_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_overlay_hover_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_overlay_hover_slideshow_gallery": []
+                  },
+                  "elements": [
+                    {
+                      "id": "381d204c",
+                      "settings": {
+                        "content_width": "full",
+                        "width": { "unit": "%", "size": 113.29 },
+                        "margin": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": false
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": true
+                        },
+                        "_flex_size": "none",
+                        "scroll_y": -80,
+                        "_element_width": "initial",
+                        "background_image": { "url": "", "id": "", "size": "" },
+                        "background_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "background_slideshow_gallery": [],
+                        "background_hover_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "background_hover_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "background_hover_slideshow_gallery": [],
+                        "background_overlay_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "background_overlay_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "background_overlay_slideshow_gallery": [],
+                        "background_overlay_hover_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "background_overlay_hover_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "background_overlay_hover_slideshow_gallery": []
+                      },
+                      "elements": [
+                        {
+                          "id": "eb92e34",
+                          "settings": {
+                            "selected_icon": {
+                              "value": {
+                                "id": "29264",
+                                "url": "https:\/\/rfidsolution.com.bd\/wp-content\/uploads\/2026\/01\/location-dot-solid-full.svg"
+                              },
+                              "library": "svg"
+                            },
+                            "title_text": "Dhaka Head Office",
+                            "description_text": "Razzak Plaza, (5th Floor), 1 New Eskaton Road, Moghbazar, Dhaka 1217.",
+                            "position": "inline-start",
+                            "position_mobile": "left",
+                            "primary_color": "#E7E7E7",
+                            "icon_size": {
+                              "unit": "px",
+                              "size": 20,
+                              "sizes": []
+                            },
+                            "scroll_y": -80,
+                            "title_size": "p",
+                            "title_bottom_space": {
+                              "unit": "px",
+                              "size": 0,
+                              "sizes": []
+                            },
+                            "__globals__": {
+                              "hover_primary_color": "globals\/colors?id=secondary",
+                              "title_color": "",
+                              "description_color": "globals\/colors?id=e42772c"
+                            },
+                            "link": {
+                              "url": "https:\/\/www.google.com\/maps\/d\/u\/0\/viewer?mid=11NzALY170d0koQXnavrA-elHTG33M_8&femb=1&ll=23.050210868842754%2C91.11134495&z=9",
+                              "is_external": "on",
+                              "nofollow": "",
+                              "custom_attributes": ""
+                            },
+                            "content_vertical_alignment": "middle",
+                            "text_align": "start",
+                            "title_typography_typography": "custom",
+                            "title_typography_font_size": {
+                              "unit": "px",
+                              "size": 20,
+                              "sizes": []
+                            },
+                            "title_typography_font_weight": "600",
+                            "_margin": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "-15",
+                              "left": "0",
+                              "isLinked": false
+                            },
+                            "_padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "0",
+                              "isLinked": true
+                            },
+                            "hover_primary_color": "#F08300",
+                            "title_color": "#D6D6D6",
+                            "content_vertical_alignment_mobile": "middle",
+                            "_background_image": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "_background_video_fallback": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "_background_slideshow_gallery": [],
+                            "_background_hover_image": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "_background_hover_video_fallback": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "_background_hover_slideshow_gallery": [],
+                            "_mask_image": { "url": "", "id": "", "size": "" }
+                          },
+                          "elements": [],
+                          "isInner": false,
+                          "widgetType": "icon-box",
+                          "elType": "widget"
+                        },
+                        {
+                          "id": "2463d81e",
+                          "settings": {
+                            "selected_icon": {
+                              "value": {
+                                "id": "29265",
+                                "url": "https:\/\/rfidsolution.com.bd\/wp-content\/uploads\/2026\/01\/envelope-solid-full.svg"
+                              },
+                              "library": "svg"
+                            },
+                            "title_text": "sales@retailsolution.com.bd",
+                            "description_text": "",
+                            "position": "left",
+                            "position_mobile": "left",
+                            "content_vertical_alignment": "middle",
+                            "text_align_mobile": "start",
+                            "primary_color": "#E7E7E7",
+                            "icon_size": {
+                              "unit": "px",
+                              "size": 15,
+                              "sizes": []
+                            },
+                            "scroll_y": -80,
+                            "title_size": "p",
+                            "title_bottom_space": {
+                              "unit": "px",
+                              "size": 0,
+                              "sizes": []
+                            },
+                            "_padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "06",
+                              "isLinked": false
+                            },
+                            "__globals__": {
+                              "hover_primary_color": "globals\/colors?id=secondary",
+                              "title_color": "globals\/colors?id=e42772c"
+                            },
+                            "link": {
+                              "url": "https:\/\/mail.google.com\/mail\/u\/0\/?to=sales@retailsolution.com.bd&fs=1&tf=cm",
+                              "is_external": "on",
+                              "nofollow": "",
+                              "custom_attributes": ""
+                            },
+                            "_margin": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "-15",
+                              "left": "0",
+                              "isLinked": false
+                            },
+                            "_padding_tablet": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "06",
+                              "isLinked": false
+                            },
+                            "_padding_mobile": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "06",
+                              "isLinked": false
+                            },
+                            "_background_image": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "_background_video_fallback": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "_background_slideshow_gallery": [],
+                            "_background_hover_image": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "_background_hover_video_fallback": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "_background_hover_slideshow_gallery": [],
+                            "_mask_image": { "url": "", "id": "", "size": "" }
+                          },
+                          "elements": [],
+                          "isInner": false,
+                          "widgetType": "icon-box",
+                          "elType": "widget"
+                        },
+                        {
+                          "id": "24d9114b",
+                          "settings": {
+                            "selected_icon": {
+                              "value": "fas fa-phone-alt",
+                              "library": "fa-solid"
+                            },
+                            "title_text": "+880 1335-100890, +880 1712-187700, +880 1721-246269,   +880 1764-745941.",
+                            "description_text": "",
+                            "position": "left",
+                            "position_mobile": "left",
+                            "content_vertical_alignment": "middle",
+                            "title_bottom_space": {
+                              "unit": "px",
+                              "size": 0,
+                              "sizes": []
+                            },
+                            "primary_color": "#E7E7E7",
+                            "icon_size": {
+                              "unit": "px",
+                              "size": 15,
+                              "sizes": []
+                            },
+                            "scroll_y": -80,
+                            "title_size": "p",
+                            "_padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "6",
+                              "isLinked": false
+                            },
+                            "__globals__": {
+                              "hover_primary_color": "globals\/colors?id=secondary",
+                              "description_color": "globals\/colors?id=e42772c",
+                              "title_color": "globals\/colors?id=e42772c"
+                            },
+                            "link": {
+                              "url": "tel:+8801712187700",
+                              "is_external": "on",
+                              "nofollow": "",
+                              "custom_attributes": ""
+                            },
+                            "_margin": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "0",
+                              "isLinked": false
+                            },
+                            "_background_image": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "_background_video_fallback": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "_background_slideshow_gallery": [],
+                            "_background_hover_image": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "_background_hover_video_fallback": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "_background_hover_slideshow_gallery": [],
+                            "_mask_image": { "url": "", "id": "", "size": "" }
+                          },
+                          "elements": [],
+                          "isInner": false,
+                          "widgetType": "icon-box",
+                          "elType": "widget"
+                        }
+                      ],
+                      "isInner": true,
+                      "elType": "container"
+                    },
+                    {
+                      "id": "50275187",
+                      "settings": {
+                        "content_width": "full",
+                        "scroll_y": -80,
+                        "background_image": { "url": "", "id": "", "size": "" },
+                        "background_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "background_slideshow_gallery": [],
+                        "background_hover_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "background_hover_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "background_hover_slideshow_gallery": [],
+                        "background_overlay_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "background_overlay_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "background_overlay_slideshow_gallery": [],
+                        "background_overlay_hover_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "background_overlay_hover_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "background_overlay_hover_slideshow_gallery": []
+                      },
+                      "elements": [
+                        {
+                          "id": "1e784b31",
+                          "settings": {
+                            "selected_icon": {
+                              "value": {
+                                "id": "29264",
+                                "url": "https:\/\/rfidsolution.com.bd\/wp-content\/uploads\/2026\/01\/location-dot-solid-full.svg"
+                              },
+                              "library": "svg"
+                            },
+                            "title_text": "Chittagong Office",
+                            "description_text": "Madina Monjil, Ground Floor, 242, East Nasirabad, Chittagong.",
+                            "position": "left",
+                            "position_mobile": "left",
+                            "text_align": "left",
+                            "primary_color": "#E7E7E7",
+                            "icon_size": {
+                              "unit": "px",
+                              "size": 20,
+                              "sizes": []
+                            },
+                            "scroll_y": -80,
+                            "title_size": "p",
+                            "title_bottom_space": {
+                              "unit": "px",
+                              "size": 0,
+                              "sizes": []
+                            },
+                            "__globals__": {
+                              "hover_primary_color": "globals\/colors?id=secondary",
+                              "description_color": "globals\/colors?id=e42772c"
+                            },
+                            "link": {
+                              "url": "https:\/\/www.google.com\/maps\/d\/u\/0\/edit?mid=10951ASd_K5VntU8MBZde_41r1uxp2UU&usp=sharing",
+                              "is_external": "on",
+                              "nofollow": "",
+                              "custom_attributes": ""
+                            },
+                            "content_vertical_alignment": "middle",
+                            "title_typography_typography": "custom",
+                            "title_typography_font_size": {
+                              "unit": "px",
+                              "size": 20,
+                              "sizes": []
+                            },
+                            "title_typography_font_weight": "600",
+                            "_margin": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "-15",
+                              "left": "0",
+                              "isLinked": false
+                            },
+                            "title_color": "#D6D6D6",
+                            "_background_image": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "_background_video_fallback": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "_background_slideshow_gallery": [],
+                            "_background_hover_image": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "_background_hover_video_fallback": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "_background_hover_slideshow_gallery": [],
+                            "_mask_image": { "url": "", "id": "", "size": "" }
+                          },
+                          "elements": [],
+                          "isInner": false,
+                          "widgetType": "icon-box",
+                          "elType": "widget"
+                        },
+                        {
+                          "id": "30272cc8",
+                          "settings": {
+                            "selected_icon": {
+                              "value": {
+                                "id": "29265",
+                                "url": "https:\/\/rfidsolution.com.bd\/wp-content\/uploads\/2026\/01\/envelope-solid-full.svg"
+                              },
+                              "library": "svg"
+                            },
+                            "title_text": "sales@retailsolution.com.bd",
+                            "description_text": "",
+                            "position": "left",
+                            "position_mobile": "left",
+                            "content_vertical_alignment": "middle",
+                            "text_align_mobile": "start",
+                            "primary_color": "#E7E7E7",
+                            "icon_size": {
+                              "unit": "px",
+                              "size": 15,
+                              "sizes": []
+                            },
+                            "scroll_y": -80,
+                            "title_size": "p",
+                            "title_bottom_space": {
+                              "unit": "px",
+                              "size": 0,
+                              "sizes": []
+                            },
+                            "_padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "06",
+                              "isLinked": false
+                            },
+                            "__globals__": {
+                              "hover_primary_color": "globals\/colors?id=secondary",
+                              "description_color": "globals\/colors?id=e42772c",
+                              "title_color": "globals\/colors?id=e42772c"
+                            },
+                            "link": {
+                              "url": "https:\/\/mail.google.com\/mail\/u\/0\/?to=sales@retailsolution.com.bd&fs=1&tf=cm",
+                              "is_external": "on",
+                              "nofollow": "",
+                              "custom_attributes": ""
+                            },
+                            "_margin": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "-15",
+                              "left": "0",
+                              "isLinked": false
+                            },
+                            "_background_image": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "_background_video_fallback": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "_background_slideshow_gallery": [],
+                            "_background_hover_image": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "_background_hover_video_fallback": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "_background_hover_slideshow_gallery": [],
+                            "_mask_image": { "url": "", "id": "", "size": "" }
+                          },
+                          "elements": [],
+                          "isInner": false,
+                          "widgetType": "icon-box",
+                          "elType": "widget"
+                        },
+                        {
+                          "id": "484e6d7f",
+                          "settings": {
+                            "selected_icon": {
+                              "value": "fas fa-phone-alt",
+                              "library": "fa-solid"
+                            },
+                            "title_text": "+88 01335 100891",
+                            "description_text": "",
+                            "position": "left",
+                            "position_mobile": "left",
+                            "content_vertical_alignment": "middle",
+                            "title_bottom_space": {
+                              "unit": "px",
+                              "size": 0,
+                              "sizes": []
+                            },
+                            "primary_color": "#E7E7E7",
+                            "icon_size": {
+                              "unit": "px",
+                              "size": 15,
+                              "sizes": []
+                            },
+                            "scroll_y": -80,
+                            "title_size": "p",
+                            "_padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "6",
+                              "isLinked": false
+                            },
+                            "__globals__": {
+                              "hover_primary_color": "globals\/colors?id=secondary",
+                              "title_color": "globals\/colors?id=e42772c"
+                            },
+                            "link": {
+                              "url": "tel:+8801712187700",
+                              "is_external": "on",
+                              "nofollow": "",
+                              "custom_attributes": ""
+                            },
+                            "_margin": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "-5",
+                              "left": "0",
+                              "isLinked": false
+                            },
+                            "_background_image": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "_background_video_fallback": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "_background_slideshow_gallery": [],
+                            "_background_hover_image": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "_background_hover_video_fallback": {
+                              "url": "",
+                              "id": "",
+                              "size": ""
+                            },
+                            "_background_hover_slideshow_gallery": [],
+                            "_mask_image": { "url": "", "id": "", "size": "" }
+                          },
+                          "elements": [],
+                          "isInner": false,
+                          "widgetType": "icon-box",
+                          "elType": "widget"
+                        }
+                      ],
+                      "isInner": true,
+                      "elType": "container"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "container"
+                },
+                {
+                  "id": "29615af8",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_gap": {
+                      "column": "20",
+                      "row": "10",
+                      "isLinked": false,
+                      "unit": "px",
+                      "size": 20
+                    },
+                    "scroll_y": -80,
+                    "width": { "unit": "%", "size": 75, "sizes": [] },
+                    "flex_justify_content": "flex-start",
+                    "flex_align_items": "flex-start",
+                    "margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "100",
+                      "isLinked": false
+                    },
+                    "margin_tablet": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "margin_mobile": {
+                      "unit": "px",
+                      "top": "10",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "background_image": { "url": "", "id": "", "size": "" },
+                    "background_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_slideshow_gallery": [],
+                    "background_hover_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_hover_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_hover_slideshow_gallery": [],
+                    "background_overlay_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_overlay_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_overlay_slideshow_gallery": [],
+                    "background_overlay_hover_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_overlay_hover_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_overlay_hover_slideshow_gallery": []
+                  },
+                  "elements": [
+                    {
+                      "id": "72729264",
+                      "settings": {
+                        "title": "Our Products",
+                        "header_size": "h4",
+                        "scroll_y": -80,
+                        "_padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "10",
+                          "left": "0",
+                          "isLinked": false
+                        },
+                        "align": "left",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Helvetica",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "600",
+                        "typography_text_transform": "none",
+                        "typography_font_style": "normal",
+                        "typography_text_decoration": "none",
+                        "typography_line_height": {
+                          "unit": "px",
+                          "size": 25,
+                          "sizes": []
+                        },
+                        "title_color": "#D6D6D6",
+                        "__globals__": {
+                          "typography_typography": "",
+                          "title_color": ""
+                        },
+                        "_background_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_slideshow_gallery": [],
+                        "_background_hover_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_slideshow_gallery": [],
+                        "_mask_image": { "url": "", "id": "", "size": "" }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "heading",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "613e445f",
+                      "settings": {
+                        "selected_icon": {
+                          "value": {
+                            "id": "29266",
+                            "url": "https:\/\/rfidsolution.com.bd\/wp-content\/uploads\/2026\/01\/angle-right-solid-full.svg"
+                          },
+                          "library": "svg"
+                        },
+                        "title_text": "POS Product",
+                        "description_text": "",
+                        "link": {
+                          "url": "https:\/\/retailsolution.com.bd\/product-category\/pos-products\/",
+                          "is_external": "on",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "title_size": "p",
+                        "position": "left",
+                        "position_mobile": "left",
+                        "content_vertical_alignment": "middle",
+                        "text_align": "left",
+                        "title_bottom_space": {
+                          "unit": "px",
+                          "size": 0,
+                          "sizes": []
+                        },
+                        "primary_color": "#E7E7E7",
+                        "icon_size": { "unit": "px", "size": 17, "sizes": [] },
+                        "scroll_y": -80,
+                        "__globals__": {
+                          "hover_primary_color": "globals\/colors?id=secondary",
+                          "title_color": "globals\/colors?id=e42772c"
+                        },
+                        "_background_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_slideshow_gallery": [],
+                        "_background_hover_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_slideshow_gallery": [],
+                        "_mask_image": { "url": "", "id": "", "size": "" }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "icon-box",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "177b5642",
+                      "settings": {
+                        "selected_icon": {
+                          "value": {
+                            "id": "29266",
+                            "url": "https:\/\/rfidsolution.com.bd\/wp-content\/uploads\/2026\/01\/angle-right-solid-full.svg"
+                          },
+                          "library": "svg"
+                        },
+                        "title_text": "EAS Security System",
+                        "description_text": "",
+                        "link": {
+                          "url": "https:\/\/retailsolution.com.bd\/product-category\/products\/eas-security-system\/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "title_size": "p",
+                        "position": "left",
+                        "position_mobile": "left",
+                        "content_vertical_alignment": "middle",
+                        "text_align": "left",
+                        "title_bottom_space": {
+                          "unit": "px",
+                          "size": 0,
+                          "sizes": []
+                        },
+                        "primary_color": "#E7E7E7",
+                        "icon_size": { "unit": "px", "size": 17, "sizes": [] },
+                        "scroll_y": -80,
+                        "__globals__": {
+                          "hover_primary_color": "globals\/colors?id=secondary",
+                          "title_color": "globals\/colors?id=e42772c"
+                        },
+                        "_background_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_slideshow_gallery": [],
+                        "_background_hover_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_slideshow_gallery": [],
+                        "_mask_image": { "url": "", "id": "", "size": "" }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "icon-box",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "5a48ea62",
+                      "settings": {
+                        "selected_icon": {
+                          "value": {
+                            "id": "29266",
+                            "url": "https:\/\/rfidsolution.com.bd\/wp-content\/uploads\/2026\/01\/angle-right-solid-full.svg"
+                          },
+                          "library": "svg"
+                        },
+                        "title_text": "Membership Card",
+                        "description_text": "",
+                        "link": {
+                          "url": "https:\/\/retailsolution.com.bd\/product-category\/products\/membership-card-bd\/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "title_size": "p",
+                        "position": "left",
+                        "position_mobile": "left",
+                        "content_vertical_alignment": "middle",
+                        "text_align": "left",
+                        "title_bottom_space": {
+                          "unit": "px",
+                          "size": 0,
+                          "sizes": []
+                        },
+                        "primary_color": "#E7E7E7",
+                        "icon_size": { "unit": "px", "size": 17, "sizes": [] },
+                        "scroll_y": -80,
+                        "__globals__": {
+                          "hover_primary_color": "globals\/colors?id=secondary",
+                          "title_color": "globals\/colors?id=e42772c"
+                        },
+                        "_background_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_slideshow_gallery": [],
+                        "_background_hover_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_slideshow_gallery": [],
+                        "_mask_image": { "url": "", "id": "", "size": "" }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "icon-box",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "327d8824",
+                      "settings": {
+                        "selected_icon": {
+                          "value": {
+                            "id": "29266",
+                            "url": "https:\/\/rfidsolution.com.bd\/wp-content\/uploads\/2026\/01\/angle-right-solid-full.svg"
+                          },
+                          "library": "svg"
+                        },
+                        "title_text": "RFID Solution",
+                        "description_text": "",
+                        "link": {
+                          "url": "https:\/\/retailsolution.com.bd\/product-category\/rfid-solution\/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "title_size": "p",
+                        "position": "left",
+                        "position_mobile": "left",
+                        "content_vertical_alignment": "middle",
+                        "text_align": "left",
+                        "title_bottom_space": {
+                          "unit": "px",
+                          "size": 0,
+                          "sizes": []
+                        },
+                        "primary_color": "#E7E7E7",
+                        "icon_size": { "unit": "px", "size": 17, "sizes": [] },
+                        "scroll_y": -80,
+                        "__globals__": {
+                          "hover_primary_color": "globals\/colors?id=secondary",
+                          "title_color": "globals\/colors?id=e42772c"
+                        },
+                        "_background_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_slideshow_gallery": [],
+                        "_background_hover_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_slideshow_gallery": [],
+                        "_mask_image": { "url": "", "id": "", "size": "" }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "icon-box",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "202dd324",
+                      "settings": {
+                        "selected_icon": {
+                          "value": {
+                            "id": "29266",
+                            "url": "https:\/\/rfidsolution.com.bd\/wp-content\/uploads\/2026\/01\/angle-right-solid-full.svg"
+                          },
+                          "library": "svg"
+                        },
+                        "title_text": "Kiosk Display",
+                        "description_text": "",
+                        "link": {
+                          "url": "https:\/\/retailsolution.com.bd\/product-category\/bank-solution\/kiosk-display-digital-billboard\/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "title_size": "p",
+                        "position": "left",
+                        "position_mobile": "left",
+                        "content_vertical_alignment": "middle",
+                        "text_align": "left",
+                        "title_bottom_space": {
+                          "unit": "px",
+                          "size": 0,
+                          "sizes": []
+                        },
+                        "primary_color": "#E7E7E7",
+                        "icon_size": { "unit": "px", "size": 17, "sizes": [] },
+                        "scroll_y": -80,
+                        "__globals__": {
+                          "hover_primary_color": "globals\/colors?id=secondary",
+                          "title_color": "globals\/colors?id=e42772c"
+                        },
+                        "_background_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_slideshow_gallery": [],
+                        "_background_hover_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_slideshow_gallery": [],
+                        "_mask_image": { "url": "", "id": "", "size": "" }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "icon-box",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "1ebd5580",
+                      "settings": {
+                        "selected_icon": {
+                          "value": {
+                            "id": "29266",
+                            "url": "https:\/\/rfidsolution.com.bd\/wp-content\/uploads\/2026\/01\/angle-right-solid-full.svg"
+                          },
+                          "library": "svg"
+                        },
+                        "title_text": "POS Accessories",
+                        "description_text": "",
+                        "link": {
+                          "url": "https:\/\/retailsolution.com.bd\/product-category\/products\/pos-accessories\/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "title_size": "p",
+                        "position": "left",
+                        "position_mobile": "left",
+                        "content_vertical_alignment": "middle",
+                        "text_align": "left",
+                        "title_bottom_space": {
+                          "unit": "px",
+                          "size": 0,
+                          "sizes": []
+                        },
+                        "primary_color": "#E7E7E7",
+                        "icon_size": { "unit": "px", "size": 17, "sizes": [] },
+                        "scroll_y": -80,
+                        "__globals__": {
+                          "hover_primary_color": "globals\/colors?id=secondary",
+                          "title_color": "globals\/colors?id=e42772c"
+                        },
+                        "_background_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_slideshow_gallery": [],
+                        "_background_hover_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_slideshow_gallery": [],
+                        "_mask_image": { "url": "", "id": "", "size": "" }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "icon-box",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "container"
+                },
+                {
+                  "id": "48535086",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_gap": {
+                      "column": "20",
+                      "row": "10",
+                      "isLinked": false,
+                      "unit": "px",
+                      "size": 20
+                    },
+                    "scroll_y": -80,
+                    "width": { "unit": "%", "size": 75, "sizes": [] },
+                    "margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "070",
+                      "isLinked": false
+                    },
+                    "flex_align_items_mobile": "flex-start",
+                    "margin_tablet": {
+                      "unit": "px",
+                      "top": "015",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "margin_mobile_extra": {
+                      "unit": "px",
+                      "top": "15",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "margin_mobile": {
+                      "unit": "px",
+                      "top": "10",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "background_image": { "url": "", "id": "", "size": "" },
+                    "background_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_slideshow_gallery": [],
+                    "background_hover_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_hover_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_hover_slideshow_gallery": [],
+                    "background_overlay_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_overlay_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_overlay_slideshow_gallery": [],
+                    "background_overlay_hover_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_overlay_hover_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "background_overlay_hover_slideshow_gallery": []
+                  },
+                  "elements": [
+                    {
+                      "id": "4e2846e4",
+                      "settings": {
+                        "title": "Important Links",
+                        "header_size": "h4",
+                        "scroll_y": -80,
+                        "_padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "010",
+                          "left": "0",
+                          "isLinked": false
+                        },
+                        "align": "left",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Helvetica",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "600",
+                        "typography_text_transform": "none",
+                        "typography_font_style": "normal",
+                        "typography_text_decoration": "none",
+                        "typography_line_height": {
+                          "unit": "px",
+                          "size": 25,
+                          "sizes": []
+                        },
+                        "title_color": "#D6D6D6",
+                        "__globals__": {
+                          "typography_typography": "",
+                          "title_color": ""
+                        },
+                        "_background_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_slideshow_gallery": [],
+                        "_background_hover_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_slideshow_gallery": [],
+                        "_mask_image": { "url": "", "id": "", "size": "" }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "heading",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "7d74280f",
+                      "settings": {
+                        "selected_icon": {
+                          "value": {
+                            "id": "29266",
+                            "url": "https:\/\/rfidsolution.com.bd\/wp-content\/uploads\/2026\/01\/angle-right-solid-full.svg"
+                          },
+                          "library": "svg"
+                        },
+                        "title_text": "Blog",
+                        "description_text": "",
+                        "link": {
+                          "url": "https:\/\/retailsolution.com.bd\/blog\/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "title_size": "p",
+                        "position": "left",
+                        "position_mobile": "left",
+                        "content_vertical_alignment": "middle",
+                        "text_align": "left",
+                        "title_bottom_space": {
+                          "unit": "px",
+                          "size": 0,
+                          "sizes": []
+                        },
+                        "primary_color": "#E7E7E7",
+                        "icon_size": { "unit": "px", "size": 17, "sizes": [] },
+                        "scroll_y": -80,
+                        "__globals__": {
+                          "hover_primary_color": "globals\/colors?id=secondary",
+                          "title_color": "globals\/colors?id=e42772c"
+                        },
+                        "_background_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_slideshow_gallery": [],
+                        "_background_hover_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_slideshow_gallery": [],
+                        "_mask_image": { "url": "", "id": "", "size": "" }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "icon-box",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "21a99e94",
+                      "settings": {
+                        "selected_icon": {
+                          "value": {
+                            "id": "29266",
+                            "url": "https:\/\/rfidsolution.com.bd\/wp-content\/uploads\/2026\/01\/angle-right-solid-full.svg"
+                          },
+                          "library": "svg"
+                        },
+                        "title_text": "About US",
+                        "description_text": "",
+                        "link": {
+                          "url": "https:\/\/retailsolution.com.bd\/about-us\/",
+                          "is_external": "on",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "title_size": "p",
+                        "position": "left",
+                        "position_mobile": "left",
+                        "content_vertical_alignment": "middle",
+                        "text_align": "left",
+                        "title_bottom_space": {
+                          "unit": "px",
+                          "size": 0,
+                          "sizes": []
+                        },
+                        "primary_color": "#E7E7E7",
+                        "icon_size": { "unit": "px", "size": 17, "sizes": [] },
+                        "scroll_y": -80,
+                        "__globals__": {
+                          "hover_primary_color": "globals\/colors?id=secondary",
+                          "title_color": "globals\/colors?id=e42772c"
+                        },
+                        "__dynamic__": [],
+                        "_background_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_slideshow_gallery": [],
+                        "_background_hover_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_slideshow_gallery": [],
+                        "_mask_image": { "url": "", "id": "", "size": "" }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "icon-box",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "77183c72",
+                      "settings": {
+                        "selected_icon": {
+                          "value": {
+                            "id": "29266",
+                            "url": "https:\/\/rfidsolution.com.bd\/wp-content\/uploads\/2026\/01\/angle-right-solid-full.svg"
+                          },
+                          "library": "svg"
+                        },
+                        "title_text": "Career",
+                        "description_text": "",
+                        "link": {
+                          "url": "https:\/\/retailsolution.com.bd\/career\/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "title_size": "p",
+                        "position": "left",
+                        "position_mobile": "left",
+                        "content_vertical_alignment": "middle",
+                        "text_align": "left",
+                        "title_bottom_space": {
+                          "unit": "px",
+                          "size": 0,
+                          "sizes": []
+                        },
+                        "primary_color": "#E7E7E7",
+                        "icon_size": { "unit": "px", "size": 17, "sizes": [] },
+                        "scroll_y": -80,
+                        "__globals__": {
+                          "hover_primary_color": "globals\/colors?id=secondary",
+                          "title_color": "globals\/colors?id=e42772c"
+                        },
+                        "_background_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_slideshow_gallery": [],
+                        "_background_hover_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_slideshow_gallery": [],
+                        "_mask_image": { "url": "", "id": "", "size": "" }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "icon-box",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "3c51e310",
+                      "settings": {
+                        "selected_icon": {
+                          "value": {
+                            "id": "29266",
+                            "url": "https:\/\/rfidsolution.com.bd\/wp-content\/uploads\/2026\/01\/angle-right-solid-full.svg"
+                          },
+                          "library": "svg"
+                        },
+                        "title_text": "Case Studies",
+                        "description_text": "",
+                        "link": {
+                          "url": "https:\/\/retailsolution.com.bd\/case-studies\/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "title_size": "p",
+                        "position": "left",
+                        "position_mobile": "left",
+                        "content_vertical_alignment": "middle",
+                        "text_align": "left",
+                        "title_bottom_space": {
+                          "unit": "px",
+                          "size": 0,
+                          "sizes": []
+                        },
+                        "primary_color": "#E7E7E7",
+                        "icon_size": { "unit": "px", "size": 17, "sizes": [] },
+                        "scroll_y": -80,
+                        "__globals__": {
+                          "hover_primary_color": "globals\/colors?id=secondary",
+                          "title_color": "globals\/colors?id=e42772c"
+                        },
+                        "_background_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_slideshow_gallery": [],
+                        "_background_hover_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_slideshow_gallery": [],
+                        "_mask_image": { "url": "", "id": "", "size": "" }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "icon-box",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "519c7c5",
+                      "settings": {
+                        "selected_icon": {
+                          "value": {
+                            "id": "29266",
+                            "url": "https:\/\/rfidsolution.com.bd\/wp-content\/uploads\/2026\/01\/angle-right-solid-full.svg"
+                          },
+                          "library": "svg"
+                        },
+                        "title_text": "Terms and Conditions",
+                        "description_text": "",
+                        "link": {
+                          "url": "https:\/\/retailsolution.com.bd\/terms-and-conditions\/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "title_size": "p",
+                        "position": "left",
+                        "position_mobile": "left",
+                        "content_vertical_alignment": "middle",
+                        "text_align": "left",
+                        "title_bottom_space": {
+                          "unit": "px",
+                          "size": 0,
+                          "sizes": []
+                        },
+                        "primary_color": "#E7E7E7",
+                        "icon_size": { "unit": "px", "size": 17, "sizes": [] },
+                        "scroll_y": -80,
+                        "__globals__": {
+                          "hover_primary_color": "globals\/colors?id=secondary",
+                          "title_color": "globals\/colors?id=e42772c"
+                        },
+                        "title_typography_typography": "custom",
+                        "_background_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_slideshow_gallery": [],
+                        "_background_hover_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_slideshow_gallery": [],
+                        "_mask_image": { "url": "", "id": "", "size": "" }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "icon-box",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "18da45f0",
+                      "settings": {
+                        "selected_icon": {
+                          "value": {
+                            "id": "29266",
+                            "url": "https:\/\/rfidsolution.com.bd\/wp-content\/uploads\/2026\/01\/angle-right-solid-full.svg"
+                          },
+                          "library": "svg"
+                        },
+                        "title_text": "Contact",
+                        "description_text": "",
+                        "link": {
+                          "url": "https:\/\/retailsolution.com.bd\/contact-us\/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "title_size": "p",
+                        "position": "left",
+                        "position_mobile": "left",
+                        "content_vertical_alignment": "middle",
+                        "text_align": "left",
+                        "title_bottom_space": {
+                          "unit": "px",
+                          "size": 0,
+                          "sizes": []
+                        },
+                        "primary_color": "#E7E7E7",
+                        "icon_size": { "unit": "px", "size": 17, "sizes": [] },
+                        "scroll_y": -80,
+                        "__globals__": {
+                          "hover_primary_color": "globals\/colors?id=secondary",
+                          "title_color": "globals\/colors?id=e42772c",
+                          "title_typography_typography": ""
+                        },
+                        "title_typography_typography": "custom",
+                        "hover_primary_color": "#F08300",
+                        "title_typography_font_family": "Arimo",
+                        "title_typography_font_weight": "400",
+                        "title_typography_text_transform": "none",
+                        "title_typography_font_style": "normal",
+                        "title_typography_text_decoration": "none",
+                        "title_typography_line_height": {
+                          "unit": "px",
+                          "size": 25,
+                          "sizes": []
+                        },
+                        "title_color": "#F9F9F9",
+                        "_background_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_slideshow_gallery": [],
+                        "_background_hover_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_slideshow_gallery": [],
+                        "_mask_image": { "url": "", "id": "", "size": "" }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "icon-box",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "118fdf54",
+                      "settings": {
+                        "selected_icon": {
+                          "value": {
+                            "id": "29266",
+                            "url": "https:\/\/rfidsolution.com.bd\/wp-content\/uploads\/2026\/01\/angle-right-solid-full.svg"
+                          },
+                          "library": "svg"
+                        },
+                        "title_text": "Exchange Policy",
+                        "description_text": "",
+                        "link": {
+                          "url": "https:\/\/retailsolution.com.bd\/support\/exchange-policy",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "title_size": "p",
+                        "position": "left",
+                        "position_mobile": "left",
+                        "content_vertical_alignment": "middle",
+                        "text_align": "left",
+                        "title_bottom_space": {
+                          "unit": "px",
+                          "size": 0,
+                          "sizes": []
+                        },
+                        "primary_color": "#E7E7E7",
+                        "icon_size": { "unit": "px", "size": 17, "sizes": [] },
+                        "scroll_y": -80,
+                        "__globals__": {
+                          "hover_primary_color": "globals\/colors?id=secondary",
+                          "title_color": "globals\/colors?id=e42772c",
+                          "title_typography_typography": ""
+                        },
+                        "title_typography_typography": "custom",
+                        "hover_primary_color": "#F08300",
+                        "title_typography_font_family": "Arimo",
+                        "title_typography_font_weight": "400",
+                        "title_typography_text_transform": "none",
+                        "title_typography_font_style": "normal",
+                        "title_typography_text_decoration": "none",
+                        "title_typography_line_height": {
+                          "unit": "px",
+                          "size": 25,
+                          "sizes": []
+                        },
+                        "title_color": "#F9F9F9",
+                        "_background_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_slideshow_gallery": [],
+                        "_background_hover_image": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_video_fallback": {
+                          "url": "",
+                          "id": "",
+                          "size": ""
+                        },
+                        "_background_hover_slideshow_gallery": [],
+                        "_mask_image": { "url": "", "id": "", "size": "" }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "icon-box",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "container"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        },
+        {
+          "id": "203be527",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "scroll_y": -80,
+            "background_image": { "url": "", "id": "", "size": "" },
+            "background_video_fallback": { "url": "", "id": "", "size": "" },
+            "background_slideshow_gallery": [],
+            "background_hover_image": { "url": "", "id": "", "size": "" },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "background_hover_slideshow_gallery": [],
+            "background_overlay_image": { "url": "", "id": "", "size": "" },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "background_overlay_slideshow_gallery": [],
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": "",
+              "size": ""
+            },
+            "background_overlay_hover_slideshow_gallery": []
+          },
+          "elements": [
+            {
+              "id": "4e02bac1",
+              "settings": {
+                "content_width": "full",
+                "scroll_y": -80,
+                "background_image": { "url": "", "id": "", "size": "" },
+                "background_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_slideshow_gallery": [],
+                "background_hover_image": { "url": "", "id": "", "size": "" },
+                "background_hover_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_hover_slideshow_gallery": [],
+                "background_overlay_image": { "url": "", "id": "", "size": "" },
+                "background_overlay_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_overlay_slideshow_gallery": [],
+                "background_overlay_hover_image": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_overlay_hover_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_overlay_hover_slideshow_gallery": []
+              },
+              "elements": [
+                {
+                  "id": "e4f2350",
+                  "settings": {
+                    "text": "<p>@2026 Copyright: <a style=\"color: #f47529;\" href=\"https:\/\/retailsolution.com.bd\/\">Retail Solution<\/a><\/p>",
+                    "text_color_scheme": "light",
+                    "text_color": "custom",
+                    "scroll_y": -80,
+                    "__globals__": {
+                      "typography_typography": "globals\/typography?id=accent",
+                      "custom_text_color": "globals\/colors?id=e42772c"
+                    },
+                    "_background_image": { "url": "", "id": "", "size": "" },
+                    "_background_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "_background_slideshow_gallery": [],
+                    "_background_hover_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "_background_hover_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "_background_hover_slideshow_gallery": [],
+                    "_mask_image": { "url": "", "id": "", "size": "" }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "wd_text_block",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            },
+            {
+              "id": "601833e9",
+              "settings": {
+                "content_width": "full",
+                "scroll_y": -80,
+                "background_image": { "url": "", "id": "", "size": "" },
+                "background_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_slideshow_gallery": [],
+                "background_hover_image": { "url": "", "id": "", "size": "" },
+                "background_hover_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_hover_slideshow_gallery": [],
+                "background_overlay_image": { "url": "", "id": "", "size": "" },
+                "background_overlay_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_overlay_slideshow_gallery": [],
+                "background_overlay_hover_image": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_overlay_hover_video_fallback": {
+                  "url": "",
+                  "id": "",
+                  "size": ""
+                },
+                "background_overlay_hover_slideshow_gallery": []
+              },
+              "elements": [
+                {
+                  "id": "4d4f7ce5",
+                  "settings": {
+                    "view": "inline",
+                    "icon_list": [
+                      {
+                        "text": "order procedure",
+                        "selected_icon": {
+                          "value": {
+                            "id": "29267",
+                            "url": "https:\/\/rfidsolution.com.bd\/wp-content\/uploads\/2026\/01\/policy-svgrepo-com.svg"
+                          },
+                          "library": "svg"
+                        },
+                        "_id": "bc4a2a5",
+                        "link": {
+                          "url": "https:\/\/retailsolution.com.bd\/order-procedure\/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        }
+                      },
+                      {
+                        "text": "Terms and Conditions",
+                        "selected_icon": {
+                          "value": {
+                            "id": "29268",
+                            "url": "https:\/\/rfidsolution.com.bd\/wp-content\/uploads\/2026\/01\/rs-trems-and-conditions.svg"
+                          },
+                          "library": "svg"
+                        },
+                        "_id": "cee630c",
+                        "link": {
+                          "url": "https:\/\/retailsolution.com.bd\/terms-and-conditions\/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        }
+                      }
+                    ],
+                    "link_click": "inline",
+                    "icon_align": "right",
+                    "icon_color": "#F9F9F9",
+                    "icon_color_hover": "#FFFFFF",
+                    "icon_size": { "unit": "px", "size": 15, "sizes": [] },
+                    "icon_self_align": "left",
+                    "icon_self_vertical_align": "center",
+                    "icon_typography_typography": "custom",
+                    "icon_typography_font_family": "Arial, Helvetica, sans-serif",
+                    "icon_typography_font_size": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "icon_typography_font_weight": "100",
+                    "icon_typography_text_transform": "capitalize",
+                    "icon_typography_font_style": "normal",
+                    "icon_typography_text_decoration": "none",
+                    "icon_typography_line_height": {
+                      "unit": "px",
+                      "size": 25,
+                      "sizes": []
+                    },
+                    "text_color": "#FFFFFF61",
+                    "text_color_hover": "#FFFFFFA3",
+                    "text_color_hover_transition": {
+                      "unit": "s",
+                      "size": 0.5,
+                      "sizes": []
+                    },
+                    "scroll_y": -80,
+                    "__globals__": {
+                      "icon_color": "globals\/colors?id=e42772c",
+                      "icon_color_hover": "globals\/colors?id=62052ef",
+                      "icon_typography_typography": "",
+                      "text_color": ""
+                    },
+                    "icon_align_mobile": "start",
+                    "_background_image": { "url": "", "id": "", "size": "" },
+                    "_background_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "_background_slideshow_gallery": [],
+                    "_background_hover_image": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "_background_hover_video_fallback": {
+                      "url": "",
+                      "id": "",
+                      "size": ""
+                    },
+                    "_background_hover_slideshow_gallery": [],
+                    "_mask_image": { "url": "", "id": "", "size": "" }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "icon-list",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    }
+  ],
+  "page_settings": [],
+  "version": "0.4",
+  "title": "rfid-solution-footer",
+  "type": "container"
+}
