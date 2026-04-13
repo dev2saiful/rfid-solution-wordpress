@@ -225,9 +225,15 @@ This website enables:
 ---
 
 ## 📸 Screenshots
-
+- GIF
+![Demo](video.gif)
+- Home
 ![Homepage Screenshot](screenshots/homepage.png)
+- Product Single Layout
 ![RFID Product](images/rfid-product.png)
+- Solution Layout
 ![RFID Solution](images/rfid-solution.png)
+- Case Study Layout
 ![RFID Case Study](images/rfid-case-study.png)
+- Support Page
 ![RFID Support](images/rfid-support.png)
